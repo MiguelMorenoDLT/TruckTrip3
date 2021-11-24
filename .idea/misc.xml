@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/mandr/AndroidStudioProjects/TruckTrip3/app/src/main/res/layout/activity_create_load.xml" value="0.17426545086119555" />
+        <entry key="..\:/Users/mandr/AndroidStudioProjects/TruckTrip3/app/src/main/res/layout/activity_driver.xml" value="0.17426545086119555" />
+        <entry key="..\:/Users/mandr/AndroidStudioProjects/TruckTrip3/app/src/main/res/layout/activity_loadout.xml" value="0.17426545086119555" />
+        <entry key="..\:/Users/mandr/AndroidStudioProjects/TruckTrip3/app/src/main/res/layout/activity_main.xml" value="0.11096014492753623" />
+        <entry key="..\:/Users/mandr/AndroidStudioProjects/TruckTrip3/app/src/main/res/layout/activity_maps.xml" value="0.17426545086119555" />
+        <entry key="..\:/Users/mandr/AndroidStudioProjects/TruckTrip3/app/src/main/res/layout/activity_register_truck.xml" value="0.17426545086119555" />
+        <entry key="..\:/Users/mandr/AndroidStudioProjects/TruckTrip3/app/src/main/res/layout/activity_registration.xml" value="0.17426545086119555" />
+        <entry key="..\:/Users/mandr/AndroidStudioProjects/TruckTrip3/app/src/main/res/layout/activity_see_transports.xml" value="0.17426545086119555" />
+        <entry key="..\:/Users/mandr/AndroidStudioProjects/TruckTrip3/app/src/main/res/layout/activity_trips_driver.xml" value="0.17426545086119555" />
+        <entry key="..\:/Users/mandr/AndroidStudioProjects/TruckTrip3/app/src/main/res/layout/activity_truck_manager.xml" value="0.17426545086119555" />
+        <entry key="..\:/Users/mandr/AndroidStudioProjects/TruckTrip3/app/src/main/res/layout/activity_view_loadout.xml" value="0.17426545086119555" />
+        <entry key="..\:/Users/mandr/AndroidStudioProjects/TruckTrip3/app/src/main/res/layout/login_activity_main.xml" value="0.17426545086119555" />
+        <entry key="..\:/Users/mandr/AndroidStudioProjects/TruckTrip3/app/src/main/res/layout/status_activity.xml" value="0.17426545086119555" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
